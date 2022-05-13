@@ -6,7 +6,8 @@
 		{
 			"path": "pages/index/index",
 			"style": {
-				"navigationBarTitleText": "test"
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#2a2a34"
 			}
 		}
 	],
